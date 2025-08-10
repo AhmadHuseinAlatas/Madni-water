@@ -63,3 +63,6 @@ Tokens are burned upon redemption, and the customer enjoys a free or discounted 
 Conclusion
 MADNI Token is a practical, user-friendly, and secure digital loyalty solution tailored for small-scale beverage vendors. By leveraging blockchain technology, it modernizes the refill business, increases customer loyalty, and simplifies record-keeping — all while providing a transparent, trustworthy system for both vendors and customers.
 
+🚀 CONTRACT ADDRESS TESTNET  
+ST36VRBBMD4PRSAAR4R9V09J7936JTTSZP79DG3MD
+
