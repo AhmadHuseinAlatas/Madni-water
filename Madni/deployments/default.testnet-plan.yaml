@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://stacks-node-api.testnet.stacks.co"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: Madni
+            expected-sender: ST36VRBBMD4PRSAAR4R9V09J7936JTTSZP79DG3MD
+            cost: 15260
+            path: "contracts\\Madni.clar"
+            anchor-block-only: true
+            clarity-version: 2
+      epoch: "2.4"
